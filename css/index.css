@@ -3,4 +3,40 @@ html {
 }
 .header {
   font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-variant: small-caps;
+  border: 20px solid rgb(83, 255, 160);
+  border-bottom: 5px solid rgb(83, 255, 160);
+  border-right: 5px solid rgb(83, 255, 160);
+}
+p {
+  text-align: center;
+  text-indent: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-right: 3px dotted;
+  border-left: 3px dotted;
+  border-color: rgb(10, 102, 51);
+}
+h2 {
+  text-indent: 20px;
+  font-variant: small-caps;
+  border: 5px solid white;
+  font-weight: bold;
+  text-align: center;
+}
+.icons {
+  text-align: center;
+  border-right: 3px dotted;
+  border-left: 3px dotted;
+  border-color: rgb(10, 102, 51);
+}
+.footer a h2 {
+  border-bottom: 5px solid rgb(83, 255, 160);
+  padding-top: 10px;
+}
+.portfolio {
+  text-align: center;
+  border-right: 3px dotted;
+  border-left: 3px dotted;
+  border-color: rgb(10, 102, 51);
 }
